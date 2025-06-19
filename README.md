@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>About Me</h3>
+  <h2>About Me</h2>
     <p>Dankook Univ. Software Engineering</p>
     <p>Goormthon Univ. 3th completion</p>
 </div>
