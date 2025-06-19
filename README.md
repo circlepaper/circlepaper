@@ -20,7 +20,7 @@
 </br>
 
 <div align="center">
-  <h2>⚒ Tech Stacks</h2>
+  <h2>Tech Stacks</h2>
 </div>
 
 <div align="center">  
