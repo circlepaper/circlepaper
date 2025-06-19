@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&height=300&section=header&text=Jowonjong's%20Git%20Hub&fontSize=70" />
-</div>
-
-<div align="center">
   <h3>About Me</h3>
     <p>Dankook Univ. Software Engineering</p>
     <p>Goormthon Univ. 3th completion</p>
