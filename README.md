@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Wonjong's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=53&descAlign=62&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Wonjong's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=53&descAlign=62&fontColor=FFFFFF" />
 </div>
-
-<br/>
 
 <div align="center">
   <h2>⚒ About Me</h2>
