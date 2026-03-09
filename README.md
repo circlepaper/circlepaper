@@ -6,4 +6,6 @@
   <br> <br>
     <p>Dankook Univ. Software Engineering</p>
     <p>Goormthon Univ. 3th completion</p>
+    <p>TABA Academy. 10th completion</p>
+
 </div>
