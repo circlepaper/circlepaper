@@ -1,9 +1,10 @@
 <div align="center">
   <h2>About Me</h2>
-  <a href="https://github.com/circlepaper/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=circlepaper&show_icons=true" />
-  </a>
-  <br><br>
+    <p>Dankook Univ. Software Engineering</p>
+    <p>Goormthon Univ. 3th completion</p>
+    <p>TABA Academy. 10th completion</p>
+
+  <h2>Stacks</h2>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <br>
@@ -16,7 +17,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <br><br> 
-    <p>Dankook Univ. Software Engineering</p>
-    <p>Goormthon Univ. 3th completion</p>
-    <p>TABA Academy. 10th completion</p>
+  
+  <a href="https://github.com/circlepaper/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=circlepaper&show_icons=true" />
+  </a>
 </div>
