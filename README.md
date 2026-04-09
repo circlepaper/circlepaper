@@ -16,9 +16,5 @@
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <br><br> 
-  
-  <a href="https://github.com/circlepaper/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=circlepaper&show_icons=true" />
   </a>
 </div>
